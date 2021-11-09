@@ -1,3 +1,5 @@
+Source: https://github.com/chaoticbob/swiftshader/tree/haiku
+
 ### 1. Getting Source ###
 Clone the source from the forked repo - make sure you're using the **`haiku`** branch.
 
